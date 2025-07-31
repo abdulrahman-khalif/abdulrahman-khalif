@@ -38,11 +38,9 @@
 - 🕷️ **Exotic Pet Breeding Business Website**  
   Designed a clean and modern WordPress site for showcasing and selling tarantulas.
 
-- 🍖 **Beef & Seafood Shop Web App**  
-  Developed an e-commerce-style static site for meat and seafood products with a focus on layout, CSS, and responsive design.
-
-- 📱 **Flutter Mobile Projects (In Progress)**  
-  Expanding skills to mobile by building cross-platform applications.
+- 📱 **UUM Mosque Mobile Application (UMMA)**
+  Created features for providing users with information about mosque activities and events, along with a secure platform for
+  donations. Aims to enhance the mosque experience for users and promote community engagement
 
 ---
 
@@ -57,9 +55,9 @@
 
 ## 📫 Let's Connect
 
-- 🌍 [My Portfolio Website](#) *(coming soon or replace with your link)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdlurahman-khalif/)  
-- 💬 Email: abdlurahman.khalif@example.com *(replace with actual)*
+- 🌍 [My Portfolio Website](#) *(coming soon)*  
+- 💼 [LinkedIn](www.linkedin.com/in/abdulrahmannur-nur)  
+- 💬 Email: abdulrahman.khalif.nur@gmail.com
 
 ---
 
